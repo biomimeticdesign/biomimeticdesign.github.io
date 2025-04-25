@@ -48,8 +48,8 @@ body {
   font-weight:bolder;
   letter-spacing:1.3px;
   color:rgb(195, 195, 195);
-  right:-50pt;
-  top:20pt;
+  right: -163pt;
+  top: 74pt;
   transform:rotate(-90deg);
   height:150pt;
   animation:opacityGlow 3s infinite;
@@ -59,7 +59,7 @@ body {
     opacity:0.7;
   }
   50% {
-    opacity:0.4;
+    opacity:0.5;
   }
   100% {
     opacity:0.7;
