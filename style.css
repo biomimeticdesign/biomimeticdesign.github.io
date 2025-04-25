@@ -48,13 +48,13 @@ body {
   font-weight:bolder;
   letter-spacing:1.3px;
   color:rgb(195, 195, 195);
-  right:20pt;
+  right:0pt;
   top:20pt;
   transform:rotate(-90deg);
   height:150pt;
   animation:opacityGlow 3s infinite;
 }
-@keyframes floatArrow {
+@keyframes opacityGlow {
   0% {
     opacity:0.7;
   }
