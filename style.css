@@ -52,7 +52,18 @@ body {
   top:20pt;
   transform:rotate(210deg);
   height:150pt;
+  animation:opacityGlow 3s infinite;
 }
+@keyframes floatArrow {
+  0% {
+    opacity:0.7;
+  }
+  50% {
+    opacity:0.4;
+  }
+  100% {
+    opacity:0.7;
+  }
 .h1 {
   font-family:font1;
   font-size:40pt;
