@@ -50,7 +50,7 @@ body {
   color:rgb(195, 195, 195);
   right:20pt;
   top:20pt;
-  transform:rotate(210deg);
+  transform:rotate(90deg);
   height:150pt;
   animation:opacityGlow 3s infinite;
 }
