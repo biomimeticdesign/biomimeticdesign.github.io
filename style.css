@@ -27,7 +27,7 @@ body {
 .arrow {
   position:fixed;
   right:20pt;
-  top:400pt;
+  top:350pt;
   height:150pt;
   animation: floatArrow 3s infinite;
 }
