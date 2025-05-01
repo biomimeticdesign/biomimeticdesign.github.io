@@ -155,7 +155,7 @@
       function setup() {
         createCanvas(1500,800);
         background("rgb(0, 28, 0)");
-        var intervalID = window.setInterval(newEllipse,5000);
+        var intervalID = window.setInterval(newEllipse,4000);
         fade=0;
       }
       function draw() {
