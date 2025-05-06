@@ -83,9 +83,7 @@ body {
   background-color:rgb(195, 195, 195);
   opacity:0.3;
   border-radius:25pt;
-  position:fixed;
-  width:35pt;
-  height:35pt;
+  position:absolute;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -96,9 +94,7 @@ body {
   background-color:rgb(195, 195, 195);
   opacity:0.3;
   border-radius:25pt;
-  position:fixed;
-  width:35pt;
-  height:35pt;
+  position:absolute;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -109,9 +105,7 @@ body {
   background-color:rgb(195, 195, 195);
   opacity:0.3;
   border-radius:25pt;
-  position:fixed;
-  width:35pt;
-  height:35pt;
+  position:absolute;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -122,9 +116,7 @@ body {
   background-color:rgb(195, 195, 195);
   opacity:0.3;
   border-radius:25pt;
-  position:fixed;
-  width:35pt;
-  height:35pt;
+  position:absolute;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -135,9 +127,7 @@ body {
   background-color:rgb(195, 195, 195);
   opacity:0.3;
   border-radius:25pt;
-  position:fixed;
-  width:35pt;
-  height:35pt;
+  position:absolute;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -148,9 +138,7 @@ body {
   background-color:rgb(195, 195, 195);
   opacity:0.3;
   border-radius:25pt;
-  position:fixed;
-  width:35pt;
-  height:35pt;
+  position:absolute;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -161,9 +149,7 @@ body {
   background-color:rgb(195, 195, 195);
   opacity:0.3;
   border-radius:25pt;
-  position:fixed;
-  width:35pt;
-  height:35pt;
+  position:absolute;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -174,9 +160,7 @@ body {
   background-color:rgb(195, 195, 195);
   opacity:0.3;
   border-radius:25pt;
-  position:fixed;
-  width:35pt;
-  height:35pt;
+  position:absolute;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -187,9 +171,7 @@ body {
   background-color:rgb(195, 195, 195);
   opacity:0.3;
   border-radius:25pt;
-  position:fixed;
-  width:35pt;
-  height:35pt;
+  position:absolute;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -200,9 +182,7 @@ body {
   background-color:rgb(195, 195, 195);
   opacity:0.3;
   border-radius:25pt;
-  position:fixed;
-  width:35pt;
-  height:35pt;
+  position:absolute;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -213,9 +193,7 @@ body {
   background-color:rgb(195, 195, 195);
   opacity:0.3;
   border-radius:25pt;
-  position:fixed;
-  width:35pt;
-  height:35pt;
+  position:absolute;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -226,24 +204,22 @@ body {
   background-color:rgb(195, 195, 195);
   opacity:0.3;
   border-radius:25pt;
-  position:fixed;
-  width:35pt;
-  height:35pt;
+  position:absolute;
   z-index:10;
   animation: growShrink 3s infinite;
 }
 @keyframes growShrink {
   0% {
-    width:30pt;
-    height:30pt;
+    width:120pt;
+    height:120pt;
   }
   50% {
-    width:45pt;
-    height:45pt;
+    width:150pt;
+    height:150pt;
   }
   100% {
-    width:30pt;
-    height:30pt;
+    width:120pt;
+    height:120pt;
   }
 }
 h2 {
@@ -259,7 +235,7 @@ h2 {
   /* width:500pt; */
   line-height: 44pt;
   z-index: 1;
-  filter: drop-shadow(5px 12px 5px rgb(0, 28, 0));
+  filter: drop-shadow(5px 11px 6px rgb(0, 28, 0));
   animation: float 4s linear infinite;
 }
 a {
