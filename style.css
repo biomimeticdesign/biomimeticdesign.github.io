@@ -84,6 +84,7 @@ body {
   opacity:0.3;
   border-radius:120pt;
   position:absolute;
+  pointer-events:none;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -95,6 +96,7 @@ body {
   opacity:0.3;
   border-radius:120pt;
   position:absolute;
+  pointer-events:none;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -106,6 +108,7 @@ body {
   opacity:0.3;
   border-radius:120pt;
   position:absolute;
+  pointer-events:none;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -117,6 +120,7 @@ body {
   opacity:0.3;
   border-radius:120pt;
   position:absolute;
+  pointer-events:none;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -128,6 +132,7 @@ body {
   opacity:0.3;
   border-radius:120pt;
   position:absolute;
+  pointer-events:none;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -139,6 +144,7 @@ body {
   opacity:0.3;
   border-radius:120pt;
   position:absolute;
+  pointer-events:none;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -150,6 +156,7 @@ body {
   opacity:0.3;
   border-radius:120pt;
   position:absolute;
+  pointer-events:none;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -161,6 +168,7 @@ body {
   opacity:0.3;
   border-radius:120pt;
   position:absolute;
+  pointer-events:none;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -172,6 +180,7 @@ body {
   opacity:0.3;
   border-radius:120pt;
   position:absolute;
+  pointer-events:none;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -183,6 +192,7 @@ body {
   opacity:0.3;
   border-radius:120pt;
   position:absolute;
+  pointer-events:none;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -194,6 +204,7 @@ body {
   opacity:0.3;
   border-radius:120pt;
   position:absolute;
+  pointer-events:none;
   z-index:10;
   animation: growShrink 3s infinite;
 }
@@ -205,6 +216,7 @@ body {
   opacity:0.3;
   border-radius:120pt;
   position:absolute;
+  pointer-events:none;
   z-index:10;
   animation: growShrink 3s infinite;
 }
