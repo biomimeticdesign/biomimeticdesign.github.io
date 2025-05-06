@@ -28,6 +28,7 @@
         if (window.getComputedStyle(x2).display === "none") {
           x2.style.display = "block";
           outline2.style.display = "block";
+          
           audio2.currentTime=0; 
           audio2.play();
 
