@@ -189,7 +189,7 @@
       }
     
       function setup() {
-        createCanvas(1500,800);
+        createCanvas(1500,900);
         background("rgb(0, 28, 0)");
         var intervalID = window.setInterval(newEllipse,3500);
         fade=0;
