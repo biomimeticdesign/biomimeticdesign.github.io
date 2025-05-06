@@ -1,8 +1,10 @@
     function text1appear() {
         var x = document.getElementById("text1");
+        var outline = document.getElementById("outline1");
         if (window.getComputedStyle(x).display === "none") {
           x.style.display = "block";
-        //   audio.setVolume(1);
+          outline.style.display = "block";
+
           audio.currentTime = 0; 
           audio.play();
 

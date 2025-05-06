@@ -216,11 +216,7 @@ h7 {
   transition: opacity 1s ease-in-out; 
   
 }
-/* .pattern1:hover ~ .text1{
-  opacity:1;
-  transition-timing-function: ease-in-out;
-  transition: opacity 1s ease; 
-} */
+
 #text2 {
   font-family:font2;
   font-weight:bolder;
@@ -240,11 +236,7 @@ h7 {
   overflow:auto;
   
 }
-/* .pattern2:hover ~ .text2{
-  opacity:1;
-  transition-timing-function: ease-in-out;
-  transition: opacity 1s ease; 
-} */
+
 #text3 {
   font-family:font2;
   font-weight:bolder;
@@ -264,11 +256,7 @@ h7 {
   overflow:auto;
   
 }
-/* .pattern3:hover ~ .text3{
-  opacity:1;
-  transition-timing-function: ease-in-out;
-  transition: opacity 1s ease; 
-} */
+
 #text4 {
   font-family:font2;
   font-weight:bolder;
@@ -440,11 +428,7 @@ h7 {
   overflow:auto;
   
 }
-/* .pattern4:hover ~ .text4{
-  opacity:1;
-  transition-timing-function: ease-in-out;
-  transition: opacity 1s ease; 
-} */
+
 a:hover {
   color: rgb(178,13,13);
 }
