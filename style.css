@@ -76,6 +76,176 @@ body {
   width:500pt;
   line-height: 35pt;
 }
+#outline1 {
+  display:none;
+  /* border-style:solid; */
+  fill: azure;
+  background-color:rgb(195, 195, 195);
+  opacity:0.3;
+  border-radius:25pt;
+  position:fixed;
+  width:35pt;
+  height:35pt;
+  z-index:10;
+  animation: growShrink 3s infinite;
+}
+#outline2 {
+  display:none;
+  /* border-style:solid; */
+  fill: azure;
+  background-color:rgb(195, 195, 195);
+  opacity:0.3;
+  border-radius:25pt;
+  position:fixed;
+  width:35pt;
+  height:35pt;
+  z-index:10;
+  animation: growShrink 3s infinite;
+}
+#outline3 {
+  display:none;
+  /* border-style:solid; */
+  fill: azure;
+  background-color:rgb(195, 195, 195);
+  opacity:0.3;
+  border-radius:25pt;
+  position:fixed;
+  width:35pt;
+  height:35pt;
+  z-index:10;
+  animation: growShrink 3s infinite;
+}
+#outline4 {
+  display:none;
+  /* border-style:solid; */
+  fill: azure;
+  background-color:rgb(195, 195, 195);
+  opacity:0.3;
+  border-radius:25pt;
+  position:fixed;
+  width:35pt;
+  height:35pt;
+  z-index:10;
+  animation: growShrink 3s infinite;
+}
+#outline5 {
+  display:none;
+  /* border-style:solid; */
+  fill: azure;
+  background-color:rgb(195, 195, 195);
+  opacity:0.3;
+  border-radius:25pt;
+  position:fixed;
+  width:35pt;
+  height:35pt;
+  z-index:10;
+  animation: growShrink 3s infinite;
+}
+#outline6 {
+  display:none;
+  /* border-style:solid; */
+  fill: azure;
+  background-color:rgb(195, 195, 195);
+  opacity:0.3;
+  border-radius:25pt;
+  position:fixed;
+  width:35pt;
+  height:35pt;
+  z-index:10;
+  animation: growShrink 3s infinite;
+}
+#outline7 {
+  display:none;
+  /* border-style:solid; */
+  fill: azure;
+  background-color:rgb(195, 195, 195);
+  opacity:0.3;
+  border-radius:25pt;
+  position:fixed;
+  width:35pt;
+  height:35pt;
+  z-index:10;
+  animation: growShrink 3s infinite;
+}
+#outline8 {
+  display:none;
+  /* border-style:solid; */
+  fill: azure;
+  background-color:rgb(195, 195, 195);
+  opacity:0.3;
+  border-radius:25pt;
+  position:fixed;
+  width:35pt;
+  height:35pt;
+  z-index:10;
+  animation: growShrink 3s infinite;
+}
+#outline9 {
+  display:none;
+  /* border-style:solid; */
+  fill: azure;
+  background-color:rgb(195, 195, 195);
+  opacity:0.3;
+  border-radius:25pt;
+  position:fixed;
+  width:35pt;
+  height:35pt;
+  z-index:10;
+  animation: growShrink 3s infinite;
+}
+#outline10 {
+  display:none;
+  /* border-style:solid; */
+  fill: azure;
+  background-color:rgb(195, 195, 195);
+  opacity:0.3;
+  border-radius:25pt;
+  position:fixed;
+  width:35pt;
+  height:35pt;
+  z-index:10;
+  animation: growShrink 3s infinite;
+}
+#outline11 {
+  display:none;
+  /* border-style:solid; */
+  fill: azure;
+  background-color:rgb(195, 195, 195);
+  opacity:0.3;
+  border-radius:25pt;
+  position:fixed;
+  width:35pt;
+  height:35pt;
+  z-index:10;
+  animation: growShrink 3s infinite;
+}
+#outline12 {
+  display:none;
+  /* border-style:solid; */
+  fill: azure;
+  background-color:rgb(195, 195, 195);
+  opacity:0.3;
+  border-radius:25pt;
+  position:fixed;
+  width:35pt;
+  height:35pt;
+  z-index:10;
+  animation: growShrink 3s infinite;
+}
+@keyframes growShrink {
+  0% {
+    width:30pt;
+    height:30pt;
+  }
+  50% {
+    width:45pt;
+    height:45pt;
+  }
+  100% {
+    width:30pt;
+    height:30pt;
+  }
+}
 h2 {
   font-family:font1;
   letter-spacing:4.5px;
