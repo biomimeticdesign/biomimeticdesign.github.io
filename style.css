@@ -89,6 +89,7 @@ h2 {
   /* width:500pt; */
   line-height: 44pt;
   z-index: 1;
+  filter: drop-shadow(5px 12px 5px rgb(0, 28, 0));
   animation: float 4s linear infinite;
 }
 a {
