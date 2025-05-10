@@ -354,6 +354,17 @@ h7 {
   display: inline;
   font-weight: bolder;
 }
+@keyframes textBox {
+  0% {
+    opacity:0;
+  }
+  50% {
+    opacity:1;
+  }
+  100% {
+    opacity:1;
+  }
+}
 #text1 {
   font-family:font2;
   font-weight:bolder;
@@ -369,9 +380,10 @@ h7 {
   top:275pt;
   width:330pt;
   z-index:1;
+  min-height:280pt;
   max-height:280pt;
   overflow:auto;
-  transition: opacity 1s ease-in-out; 
+  animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
   
 }
@@ -391,8 +403,10 @@ h7 {
   top:275pt;
   width:330pt;
   z-index:1;
+  min-height:280pt;
   max-height:280pt;
   overflow:auto;
+  animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
   
 }
@@ -412,8 +426,10 @@ h7 {
   top:275pt;
   width:330pt;
   z-index:1;
+  min-height:280pt;
   max-height:280pt;
   overflow:auto;
+  animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
   
 }
@@ -433,8 +449,10 @@ h7 {
   top:275pt;
   width:330pt;
   z-index:1;
+  min-height:280pt;
   max-height:280pt;
   overflow:auto;
+  animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
   
 }
@@ -453,8 +471,10 @@ h7 {
   top:275pt;
   width:330pt;
   z-index:1;
+  min-height:280pt;
   max-height:280pt;
   overflow:auto;
+  animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
   
 }
@@ -473,8 +493,10 @@ h7 {
   top:275pt;
   width:330pt;
   z-index:1;
+  min-height:280pt;
   max-height:280pt;
   overflow:auto;
+  animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
   
 }
@@ -493,8 +515,10 @@ h7 {
   top:275pt;
   width:330pt;
   z-index:1;
+  min-height:280pt;
   max-height:280pt;
   overflow:auto;
+  animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
  
 }
@@ -513,8 +537,10 @@ h7 {
   top:275pt;
   width:330pt;
   z-index:1;
+  min-height:280pt;
   max-height:280pt;
   overflow:auto;
+  animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
  
 }
@@ -533,8 +559,10 @@ h7 {
   top:275pt;
   width:330pt;
   z-index:1;
+  min-height:280pt;
   max-height:280pt;
   overflow:auto;
+  animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
   
 }
@@ -553,8 +581,10 @@ h7 {
   top:275pt;
   width:330pt;
   z-index:1;
+  min-height:280pt;
   max-height:280pt;
   overflow:auto;
+  animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
   
 }
@@ -573,8 +603,10 @@ h7 {
   top:275pt;
   width:330pt;
   z-index:1;
+  min-height:280pt;
   max-height:280pt;
   overflow:auto;
+  animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
   
 }
@@ -593,8 +625,10 @@ h7 {
   top:275pt;
   width:330pt;
   z-index:1;
+  min-height:280pt;
   max-height:280pt;
   overflow:auto;
+  animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
   
 }
