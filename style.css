@@ -379,12 +379,13 @@ h7 {
   margin-bottom:60pt;
   top:275pt;
   width:330pt;
-  z-index:1;
+  z-index:-2;
   min-height:280pt;
   max-height:280pt;
   overflow:auto;
   animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
+  box-shadow: 0 0 20px 20px rgb(0, 28, 0);
   
 }
 
@@ -402,12 +403,13 @@ h7 {
   margin-bottom:60pt;
   top:275pt;
   width:330pt;
-  z-index:1;
+  z-index:-2;
   min-height:280pt;
   max-height:280pt;
   overflow:auto;
   animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
+  box-shadow: 0 0 20px 20px rgb(0, 28, 0);
   
 }
 
@@ -425,12 +427,13 @@ h7 {
   margin-bottom:60pt;
   top:275pt;
   width:330pt;
-  z-index:1;
+  z-index:-2;
   min-height:280pt;
   max-height:280pt;
   overflow:auto;
   animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
+  box-shadow: 0 0 20px 20px rgb(0, 28, 0);
   
 }
 
@@ -448,12 +451,13 @@ h7 {
   margin-bottom:60pt;
   top:275pt;
   width:330pt;
-  z-index:1;
+  z-index:-2;
   min-height:280pt;
   max-height:280pt;
   overflow:auto;
   animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
+  box-shadow: 0 0 20px 20px rgb(0, 28, 0);
   
 }
 #text5 {
@@ -470,12 +474,13 @@ h7 {
   margin-bottom:60pt;
   top:275pt;
   width:330pt;
-  z-index:1;
+  z-index:-2;
   min-height:280pt;
   max-height:280pt;
   overflow:auto;
   animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
+  box-shadow: 0 0 20px 20px rgb(0, 28, 0);
   
 }
 #text6 {
@@ -492,12 +497,13 @@ h7 {
   margin-bottom:60pt;
   top:275pt;
   width:330pt;
-  z-index:1;
+  z-index:-2;
   min-height:280pt;
   max-height:280pt;
   overflow:auto;
   animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
+  box-shadow: 0 0 20px 20px rgb(0, 28, 0);
   
 }
 #text7 {
@@ -514,12 +520,13 @@ h7 {
   margin-bottom:60pt;
   top:275pt;
   width:330pt;
-  z-index:1;
+  z-index:-2;
   min-height:280pt;
   max-height:280pt;
   overflow:auto;
   animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
+  box-shadow: 0 0 20px 20px rgb(0, 28, 0);
  
 }
 #text8 {
@@ -536,12 +543,13 @@ h7 {
   margin-bottom:60pt;
   top:275pt;
   width:330pt;
-  z-index:1;
+  z-index:-2;
   min-height:280pt;
   max-height:280pt;
   overflow:auto;
   animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
+  box-shadow: 0 0 20px 20px rgb(0, 28, 0);
  
 }
 #text9 {
@@ -558,12 +566,13 @@ h7 {
   margin-bottom:60pt;
   top:275pt;
   width:330pt;
-  z-index:1;
+  z-index:-2;
   min-height:280pt;
   max-height:280pt;
   overflow:auto;
   animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
+  box-shadow: 0 0 20px 20px rgb(0, 28, 0);
   
 }
 #text10 {
@@ -580,12 +589,13 @@ h7 {
   margin-bottom:60pt;
   top:275pt;
   width:330pt;
-  z-index:1;
+  z-index:-2;
   min-height:280pt;
   max-height:280pt;
   overflow:auto;
   animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
+  box-shadow: 0 0 20px 20px rgb(0, 28, 0);
   
 }
 #text11 {
@@ -602,12 +612,13 @@ h7 {
   margin-bottom:60pt;
   top:275pt;
   width:330pt;
-  z-index:1;
+  z-index:-2;
   min-height:280pt;
   max-height:280pt;
   overflow:auto;
   animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
+  box-shadow: 0 0 20px 20px rgb(0, 28, 0);
   
 }
 #text12 {
@@ -624,12 +635,13 @@ h7 {
   margin-bottom:60pt;
   top:275pt;
   width:330pt;
-  z-index:1;
+  z-index:-2;
   min-height:280pt;
   max-height:280pt;
   overflow:auto;
   animation: textBox 1s forwards;
   background-color: rgb(0, 28, 0);
+  box-shadow: 0 0 20px 20px rgb(0, 28, 0);
   
 }
 
